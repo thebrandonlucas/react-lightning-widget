@@ -27,4 +27,4 @@ function App() {
 export default App;
 ```
 
-See [the project page](https://github.com/reneaaron/lightning-widget#configuration-options) for all props
+See [the project page](https://github.com/reneaaron/lightning-widget#configuration-options) for all props. Huge thanks to [reneaaron](https://github.com/reneaaron/) for this great tool!
