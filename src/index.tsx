@@ -27,11 +27,11 @@ export type LightningWidgetProps = {
 };
 
 const defaultProps = {
-  name: "Brandon Lucas",
+  name: "René Aaron",
   image:
-    "https://pbs.twimg.com/profile_images/1521937468563537925/UV3WAnF5_400x400.jpg",
-  to: "bslucas@getalby.com",
-  accent: "#20C997",
+    "https://secure.gravatar.com/avatar/07e22939e7672b38c56615068c4c715f?size=200",
+  to: "reneaaron@getalby.com",
+  accent: "#20c997",
   buttonText: "Donate sats",
   debug: false,
   initialStep: "start"

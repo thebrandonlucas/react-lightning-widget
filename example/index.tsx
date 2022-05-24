@@ -7,11 +7,10 @@ const App = () => {
   return (
     <div>
       <LightningWidget
-        name={"Brandon Lucas"}
-        image={
-          "https://pbs.twimg.com/profile_images/1521937468563537925/UV3WAnF5_400x400.jpg"
-        }
-        to={"bslucas@getalby.com"}
+        name="René Aaron"
+        accent="#20c997"
+        to="reneaaron@getalby.com"
+        image="https://secure.gravatar.com/avatar/07e22939e7672b38c56615068c4c715f?size=200"
       />
     </div>
   );
