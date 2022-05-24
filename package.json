@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-user/repo-url.git"
+    "url": "https://github.com/thebrandonlucas/react-lightning-widget"
   },
   "scripts": {
     "start": "tsdx watch",
